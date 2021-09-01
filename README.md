@@ -1,4 +1,7 @@
 # For checking out this react-app: https://ss-ace.github.io/React-Calculator/
+
+  References: Digital Solutions Master: https://www.youtube.com/channel/UC9S8RYfxS_YYD_eh57fswzQ
+              Nitin Patel: https://www.youtube.com/channel/UCVs5h8jn4Izc391V2QLVEyw
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
