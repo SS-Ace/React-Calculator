@@ -1,5 +1,5 @@
 # For checking out this react-app: https://ss-ace.github.io/React-Calculator/
-# References for this project: \
+# References for this project:
              Digital Solutions Master: https://www.youtube.com/channel/UC9S8RYfxS_YYD_eh57fswzQ \
              Nitin Patel: https://www.youtube.com/channel/UCVs5h8jn4Izc391V2QLVEyw
               
